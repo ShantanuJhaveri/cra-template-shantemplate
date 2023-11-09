@@ -8,6 +8,6 @@
 
 @layer components{
     .tiny-header{
-      @apply text-sub font-sans-light py-4
+      @apply text-micro font-sans-light py-4
     }
 }

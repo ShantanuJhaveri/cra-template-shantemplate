@@ -5,8 +5,6 @@
       "@testing-library/react": "^13.4.0",
       "@testing-library/user-event": "^13.5.0",
       "autoprefixer": "^10.4.16",
-      "firebase": "^10.5.2",
-      "framer-motion": "^10.16.4",
       "postcss": "^8.4.31",
       "react": "^18.2.0",
       "react-dom": "^18.2.0",
@@ -20,6 +18,11 @@
     },
     "scripts": {
       "say hi": "echo 'hi'"
-    }    
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.16",
+      "prettier": "^3.0.3",
+      "prettier-plugin-tailwindcss": "^0.5.7"
+  }    
   }
 }

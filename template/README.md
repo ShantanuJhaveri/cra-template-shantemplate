@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Other Useful Scripts
+
+### Using Prettier
+
+`npx prettier . --write` to format all files in the current directory and subdirectories. Run in root directory
