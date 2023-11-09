@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-shatemplate",
+  "version": "4.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tailwind"
+  ],
+  "description": "Shantanu's streamlined react boilerplate template for Create React App using tailwindcss, typescript, and react-router",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShantanuJhaveri/cra-template-shantemplate"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/ShantanuJhaveri/cra-template-shantemplate/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
